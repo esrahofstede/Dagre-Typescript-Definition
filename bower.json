@@ -1,0 +1,26 @@
+{
+  "name": "dagre.TypeScript.DefinitelyTyped",
+  "version": "0.0.1",
+  "homepage": "https://github.com/esrahofstede/Dagre-Typescript-Definition",
+  "authors": [
+    "Esra Hofstede <esrahofstede@gmail.com>"
+  ],
+  "description": "Typescript definition for dagre",
+  "main": "dagre.d.ts",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "typescript",
+    "dagre",
+    "definitelytyped"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
