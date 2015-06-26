@@ -1,5 +1,4 @@
 // Type definitions for dagre 0.7.0
-// Project: https://github.com/cpettitt/dagre
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
 declare module Dagre{
     interface DagreFactory {
